@@ -1,0 +1,54 @@
+.container {
+    background-color: white;
+    padding: 0 10px;
+    width: 968px;
+}
+
+#logo {
+    float: left;
+    display: block;
+    background-color: #4aaaa5;
+    color: #ffffff;
+    font-family: "Georgia";
+    font-size: 30px;
+    padding: 0 40px;
+    line-height: 90px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.navbar navbar-expand-lg navbar-light bg-light {
+    padding-bottom: 40px;
+}
+
+nav ul li {
+    display: inline-block;
+    line-height: 90px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #999;
+    margin-left: 20px;
+    line-height: 22px;
+    padding-left: 20px;
+    border-left: 1px solid #ddd;
+}
+
+.nav-item {
+    color: black;
+}
+
+.nav-link {
+    text-decoration-color: black;
+}
+
+footer {
+    text-align: center;
+    background-color: #666666;
+    color: #cccccc;
+    line-height: 90px;
+    margin-top: 40px;
+    border-top: 8px solid #4aaaa5;
+    font-size: 12px;
+}
