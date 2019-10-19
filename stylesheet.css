@@ -52,3 +52,10 @@ footer {
     border-top: 8px solid #4aaaa5;
     font-size: 12px;
 }
+
+/* container css*/
+
+.container {
+    max-width: 968px;
+}
+
